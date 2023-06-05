@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.BigFish",
+  "simulationId": "bigfish",
+  "start": 1685945438860,
+  "description": "Big Fish Page Test",
+  "scenarios": ["Big Fish Load Test"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.FishFeedMill",
+  "simulationId": "fishfeedmill",
+  "start": 1685946029252,
+  "description": "Fish Feed Mill Page Test",
+  "scenarios": ["Fish Feed Mill Load Test"],
+  "assertions": [
+
+  ]
+}

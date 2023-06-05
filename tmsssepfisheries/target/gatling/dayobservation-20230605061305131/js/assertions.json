@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.DayObservation",
+  "simulationId": "dayobservation",
+  "start": 1685945585131,
+  "description": "Day Observation Page Test",
+  "scenarios": ["Day Observation Load Test"],
+  "assertions": [
+
+  ]
+}

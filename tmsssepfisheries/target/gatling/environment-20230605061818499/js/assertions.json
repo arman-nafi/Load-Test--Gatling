@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.Environment",
+  "simulationId": "environment",
+  "start": 1685945898499,
+  "description": "Environment Club  Page Test",
+  "scenarios": ["Environment Club Load Test"],
+  "assertions": [
+
+  ]
+}

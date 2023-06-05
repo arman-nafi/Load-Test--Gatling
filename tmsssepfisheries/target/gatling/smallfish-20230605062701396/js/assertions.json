@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.SmallFish",
+  "simulationId": "smallfish",
+  "start": 1685946421396,
+  "description": "Small Fish Page Test",
+  "scenarios": ["Small Fish Page Load Test"],
+  "assertions": [
+
+  ]
+}

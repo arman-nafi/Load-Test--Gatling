@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.Training",
+  "simulationId": "training",
+  "start": 1685946891083,
+  "description": "Training Page Test",
+  "scenarios": ["Training Page Load Test"],
+  "assertions": [
+
+  ]
+}

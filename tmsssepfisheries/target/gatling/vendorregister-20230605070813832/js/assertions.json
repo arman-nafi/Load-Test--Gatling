@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.VendorRegister",
+  "simulationId": "vendorregister",
+  "start": 1685948893832,
+  "description": "Vendor Registration Page Test",
+  "scenarios": ["Vendor Registration Load Test"],
+  "assertions": [
+
+  ]
+}

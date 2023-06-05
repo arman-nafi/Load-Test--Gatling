@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tmsssepfisheries.tests.Homepage",
+  "simulationId": "homepage",
+  "start": 1685946283820,
+  "description": "Homepage Test",
+  "scenarios": ["Homepage Load Test"],
+  "assertions": [
+
+  ]
+}
